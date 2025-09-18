@@ -14,7 +14,7 @@
     "composables": "@/composables",
     "utils": "@/shared/api/lib/utils",
     "ui": "@/shared/api/ui",
-    "lib": "@/shared/api/lib"
+    "lib": "@/shared/lib"
   },
   "iconLibrary": "lucide"
 }
